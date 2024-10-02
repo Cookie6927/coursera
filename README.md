@@ -1,1 +1,3 @@
-# coursera
+# Coursera Assignments
+
+Module 2
